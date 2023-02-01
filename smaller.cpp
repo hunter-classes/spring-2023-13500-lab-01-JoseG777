@@ -1,3 +1,9 @@
+/*
+Jose Guzman
+JoseG777
+Finds the smallest of two numbers.
+*/
+
 #include <iostream>
 
 int main(){
